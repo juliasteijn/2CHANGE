@@ -17,7 +17,10 @@ should help the app’s users to make responsible choices as to where their mone
 the power of autonomy by giving them the tools they need to make their own investment decisions. 
 This includes not only additional decision features, but also the tool of knowledge.
 
-## Logins
+## Setup
+### Deployment
+The repository should be git cloned in pycharm to deploy the GUI
+### Logins
 Since the app is still in the development stage, a limited number of used has access to the demo version.
 That is why I have created a generally accessible Google account for the purpose of testing the MVP.
 The logins to this Google account can be found below:
